@@ -16,6 +16,10 @@ This application utilizes deep learning models built with Keras and TensorFlow, 
 - **Text to Sign Language Conversion**: Converts input text into sign language animations.
 - **Real-Time Detection**: Uses a webcam for live sign language recognition.
 
+![](SampleImages/1.png)
+![](SampleImages/2.png)
+![](SampleImages/3.png)
+
 ## Installation
 
 To get started with this project, you'll need to install the necessary dependencies. Create a virtual environment and install the required packages using the following commands:
