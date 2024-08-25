@@ -35,15 +35,15 @@ pip install -r requirements.txt
 - nltk: For text processing.
 
 
-##Run the GUI application:
+## Run the GUI application:
 
 python gui1.py
 
-##Training the Model
+## Training the Model
 To train a new model, follow these steps:
 
 Prepare your dataset of sign language gestures. 
-#Run the training script:
+Run the training script:
 
 python train_model.py
 The model will be saved as model.h5
